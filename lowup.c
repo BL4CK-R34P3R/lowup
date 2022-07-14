@@ -86,7 +86,7 @@ int to_upper(char* ass){
 }
 
 int ussage(){
-    printf("ussage: lowup [option] [filename] \n -l to convert to to lowercase \n -u to convert to uppercase");
+    printf("usage: lowup [option] [filename] \n -l to convert to to lowercase \n -u to convert to uppercase");
     exit(0);
 }
 
