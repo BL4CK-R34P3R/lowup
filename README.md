@@ -5,9 +5,13 @@ just another stupid cli tool for linux incase while you are doing ctf if you wan
 
 ### installation
 
-		sudo wget https://github.com/BL4CK-R34P3R/lowup/blob/main/lowup?raw=true -P /usr/local/bin
+		git clone https://github.com/BL4CK-R34P3R/lowup
+		
+		cd lowup
 
-		chmod +x /usr/local/bin/lowup
+		chmod +x lowup
+		
+		sudo mv lowup /usr/local/bin/
 
 ### usage
 
